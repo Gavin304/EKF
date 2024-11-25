@@ -4,4 +4,9 @@ This Code uses uses data encoder and IMU data gathered from Nvidia Isaac sim and
 
 To Run Code
 Initialize variableDeclare.m
-Run Sensor_fusion4.slx
+Run Sensor_fusion_4.slx
+
+Note, you need to have ROS2 Huble, publishing in /IMU, /Joint_States and /Joint_command
+Also Simulink,  Systems Control Toolbox are needed
+
+ 
