@@ -6,7 +6,7 @@ To Run Code
 Initialize variableDeclare.m
 Run Sensor_fusion_4.slx
 
-Note, you need to have ROS2 Huble, publishing in /IMU, /Joint_States and /Joint_command
+Note, you need to have ROS2 Humble, publishing in /IMU, /Joint_States and /Joint_command
 Also Simulink,  Systems Control Toolbox are needed
 
  
