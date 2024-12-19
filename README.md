@@ -8,5 +8,6 @@ Run Sensor_fusion_4.slx
 
 Note, you need to have ROS2 Humble, publishing in /IMU, /Joint_States and /Joint_command
 Also Simulink,  Systems Control Toolbox are needed
+![image](https://github.com/user-attachments/assets/3845df1e-7416-4730-bfd1-104b464501bc)
 
  
